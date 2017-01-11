@@ -1,4 +1,4 @@
-<h1>Home: Bienvenue</h1>
+<h1>Accueil: Bienvenue</h1>
 
 Here's a link explaining how to customise your github styles and template file:
 [Customising Github Pages](https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/)
