@@ -1,4 +1,4 @@
-<h2>Present</h2>
+<h2>présent</h2>
 
 <p>The first present page.</p>
 <hr>
