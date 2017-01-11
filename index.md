@@ -10,8 +10,7 @@ qui ouvre des portes à tout. Le français est parlé dans de nombreux pays. Voi
 
 Cliquez sur les épingles pour obtenir plus d'informations sur les pays et la langue française.
 
-
-
+<iframe src="https://www.google.com/maps/d/embed?mid=1uLU5fPWfe1gOV1aN5poZlTDULoA" width="640" height="480"></iframe>
 
 
 1) Here an image using HTML src code:
