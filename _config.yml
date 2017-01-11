@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: Bonjour!
-description: Learn French
+description: Apprendre le français c'est facile et gratuit
 gems:
    - jekyll-mentions
    - jemoji
