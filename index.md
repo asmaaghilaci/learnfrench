@@ -1,9 +1,18 @@
 <h1>Accueil: Bienvenue</h1>
 
-Here's a link explaining how to customise your github styles and template file:
-[Customising Github Pages](https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/)
+Ce site vous aidera à apprendre les bases de la langue française. Vous trouverez une vraisité d'exercices, de vidéos et de jeux qui
+incluent le vocabulaire et les temps de conjugaison.
 
-You can also include plain old html. 
+# le français  
+le français est une langue très populaire. C'est une langue du monde plus de 220 millions de personnes parlent français. C'est aussi une 
+langue du marché du travail, une langue de culture et de littérature. Une langue d'amour et de raison. La langue française est une langue 
+qui ouvre des portes à tout. Le français est parlé dans de nombreux pays. Voici une carte des différents pays.
+
+Cliquez sur les épingles pour obtenir plus d'informations sur les pays et la langue française.
+
+
+
+
 
 1) Here an image using HTML src code:
 
