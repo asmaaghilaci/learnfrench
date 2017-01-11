@@ -1,7 +1,6 @@
 theme: jekyll-theme-cayman
-title: Github Pages Test Site 2017
-description: Using GitHub Pages the new way
-
+title: Bonjour!
+description: Learn French
 gems:
    - jekyll-mentions
    - jemoji
