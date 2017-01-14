@@ -1,5 +1,5 @@
 
-<h2>Comment formez le futur</h2>
+<h2>Comment former le futur</h2>
 
 
 Une vidéo pour vous montrer comment former le futur Suivi d'un exercice.
