@@ -1,6 +1,6 @@
 <h2>Les Fruits et légumes</h2>
 
-Cliquez sur le nom du fruit pour voir la définition anglaise.
+Cliquez sur les nom des fruits pour voir la définition anglaise.
 
 <iframe src="https://h5p.org/h5p/embed/31718" width="1090" height="520" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script
 src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
@@ -11,7 +11,7 @@ src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="U
 
 <h2>Les vêtements</h2>
 
-Voyez la vidéo pour votre vocabulaire des vêtements
+Regardez la vidéo pour votre vocabulaire des vêtements.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/otjTnoM24ZY" frameborder="0" allowfullscreen></iframe>
 
