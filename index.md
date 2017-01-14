@@ -1,4 +1,4 @@
-<h1>Accueil: Bienvenue</h1>
+<h1>Bienvenue</h1>
 
 Ce site vous aidera à apprendre les bases de la langue française. Vous trouverez une vraisité d'exercices, de vidéos et de jeux qui
 incluent le vocabulaire et les temps de conjugaison.
