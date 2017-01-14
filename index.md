@@ -16,11 +16,17 @@ Cliquez sur les épingles pour obtenir plus d'informations sur les pays et la la
 <h2>Plus D'information sur la France</h2>
 
 Population: plus de 66,7 millions de personnes vivent dans le pays (2016)
+
 Capitale: Paris, avec 2,2 millions d'habitants.
+
 Gouvernement: Démocratie
-Langue: Français
+
+Langue: Le Français
+
 Religion: principalement chrétiens (catholiques 64%)
+
 Monnaie: Euro 
+
 Devise: Liberté, Égalité, Fraternité
 
 
